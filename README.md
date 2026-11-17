@@ -7,10 +7,16 @@
 ## Team Members
 1. **Name:** Hathija Asma
    **Register Number:** RA2511003050251
+   **Name:** Nithya sree
+   **Register Number:** RA2511003050278
+   **Name:** Sreenidhi
+   **Register Number:** RA2511003050288
+   **Name:** Rasmitha 
+   **Register Number:** RA2511003050290
    **Department:** Computer Science and Engineering
    **Section:** E
 
-2. **Name:** Sreenidhi
+3. **Name:** Sreenidhi
    **Register Number:** RA2511003050288
    **Department:** Computer Science and Engineering
    **Section:** E
