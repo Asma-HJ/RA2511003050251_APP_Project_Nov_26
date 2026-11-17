@@ -1,6 +1,20 @@
-# Manam-CloudKitchen-POS
+# Manam Cloud Kitchen POS
 
-A Java Swing point-of-sale management system for a cloud kitchen.
+**Course ID:** 21CSC203P
+**Course Name:** Advanced Programming Practice (APP)
+**Academic Year:** 2026-2027
 
-## System Architecture
-This application is engineered for zero-dependency execution. To ensure the POS system can be deployed and run immediately on any machine without requiring complex database installations, all data management—including the menu catalog and order histories—is handled via custom local text-file storage and parsing in core Java.
+## Team Members
+1. **Name:** Hathija Asma
+   **Register Number:** RA2511003050251
+   **Department:** Computer Science and Engineering
+   **Section:** E
+
+2. **Name:** Sreenidhi
+   **Register Number:** RA2511003050288
+   **Department:** Computer Science and Engineering
+   **Section:** E
+
+## Mentor Details
+**Name:** Dr. S. Shargunam
+**Designation:** Subject Handling Faculty
